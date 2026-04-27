@@ -11,7 +11,7 @@
 <td><img src="https://github.com/user-attachments/assets/243e7c1e-030f-46ad-8a80-997242c542e9" width="30"/></td>
 </table>
 
-5. SIC will then engage the right resources to progress to efficvient solution and provide updates in the thread if requested.
+5. SIC will then engage the right resources to progress to efficient solution and provide updates in the thread if requested.
 
 
 
